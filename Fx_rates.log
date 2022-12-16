@@ -1,0 +1,87 @@
+Dec 16 11:04:29 fx_rates [3274]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:04:29 fx_rates [3274]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:09:56 fx_rates [3680]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:09:59 fx_rates [3680]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 11:09:59 fx_rates [3680]: [INFO] Megre dataframes
+Dec 16 11:09:59 fx_rates [3680]: [INFO] Generate file name
+Dec 16 11:52:28 fx_rates [3976]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:52:31 fx_rates [3976]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 11:52:31 fx_rates [3976]: [INFO] Megre dataframes
+Dec 16 11:52:31 fx_rates [3976]: [INFO] Generate file name
+Dec 16 11:52:32 fx_rates [3976]: [INFO] Generate file name
+Dec 16 11:54:58 fx_rates [4361]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:55:01 fx_rates [4361]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 11:55:01 fx_rates [4361]: [INFO] Megre dataframes
+Dec 16 11:55:01 fx_rates [4361]: [INFO] Generate file name
+Dec 16 11:55:02 fx_rates [4361]: [INFO] Generate file name
+Dec 16 11:55:34 fx_rates [4653]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:55:36 fx_rates [4653]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 11:55:37 fx_rates [4653]: [INFO] Megre dataframes
+Dec 16 11:55:37 fx_rates [4653]: [INFO] Generate file name
+Dec 16 11:55:37 fx_rates [4653]: [INFO] Generate file name
+Dec 16 11:56:08 fx_rates [4949]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:56:11 fx_rates [4949]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 11:56:11 fx_rates [4949]: [INFO] Megre dataframes
+Dec 16 11:56:11 fx_rates [4949]: [INFO] Generate file name
+Dec 16 11:56:32 fx_rates [5240]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:56:35 fx_rates [5240]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 11:56:35 fx_rates [5240]: [INFO] Megre dataframes
+Dec 16 11:56:35 fx_rates [5240]: [INFO] Generate file name
+Dec 16 11:56:36 fx_rates [5240]: [INFO] Generate file name
+Dec 16 11:57:02 fx_rates [5536]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:57:05 fx_rates [5536]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 11:57:05 fx_rates [5536]: [INFO] Megre dataframes
+Dec 16 11:57:05 fx_rates [5536]: [INFO] Generate file name
+Dec 16 11:57:06 fx_rates [5536]: [INFO] Generate file name
+Dec 16 11:57:27 fx_rates [5834]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:57:29 fx_rates [5834]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 11:57:30 fx_rates [5834]: [INFO] Megre dataframes
+Dec 16 11:57:30 fx_rates [5834]: [INFO] Generate file name
+Dec 16 11:57:34 fx_rates [6050]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 11:57:37 fx_rates [6050]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 11:57:37 fx_rates [6050]: [INFO] Megre dataframes
+Dec 16 11:57:37 fx_rates [6050]: [INFO] Generate file name
+Dec 16 11:57:37 fx_rates [6050]: [INFO] Generate file name
+Dec 16 12:00:19 fx_rates [6397]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:00:22 fx_rates [6397]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 12:00:22 fx_rates [6397]: [INFO] Megre dataframes
+Dec 16 12:00:22 fx_rates [6397]: [INFO] Generate file name
+Dec 16 12:00:23 fx_rates [6397]: [INFO] Generate file name
+Dec 16 12:00:34 fx_rates [6680]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:00:36 fx_rates [6680]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 12:00:37 fx_rates [6680]: [INFO] Megre dataframes
+Dec 16 12:00:37 fx_rates [6680]: [INFO] Generate file name
+Dec 16 12:00:37 fx_rates [6680]: [INFO] Generate file name
+Dec 16 12:00:52 fx_rates [6978]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:00:56 fx_rates [6978]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 12:00:56 fx_rates [6978]: [INFO] Megre dataframes
+Dec 16 12:00:56 fx_rates [6978]: [INFO] Generate file name
+Dec 16 12:00:57 fx_rates [6978]: [INFO] Generate file name
+Dec 16 12:01:08 fx_rates [7290]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:01:11 fx_rates [7290]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 12:01:11 fx_rates [7290]: [INFO] Megre dataframes
+Dec 16 12:01:11 fx_rates [7290]: [INFO] Generate file name
+Dec 16 12:01:11 fx_rates [7290]: [INFO] Generate file name
+Dec 16 12:01:30 fx_rates [7576]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:01:33 fx_rates [7576]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 12:01:33 fx_rates [7576]: [INFO] Megre dataframes
+Dec 16 12:01:33 fx_rates [7576]: [INFO] Generate file name
+Dec 16 12:01:34 fx_rates [7576]: [INFO] Generate file name
+Dec 16 12:06:12 fx_rates [7902]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:06:14 fx_rates [7902]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 12:06:14 fx_rates [7902]: [INFO] Megre dataframes
+Dec 16 12:06:14 fx_rates [7902]: [INFO] Generate file name
+Dec 16 12:06:15 fx_rates [7902]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:06:15 fx_rates [7902]: [INFO] Generate file name
+Dec 16 12:06:32 fx_rates [8204]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:06:35 fx_rates [8204]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 12:06:35 fx_rates [8204]: [INFO] Megre dataframes
+Dec 16 12:06:35 fx_rates [8204]: [INFO] Generate file name
+Dec 16 12:06:36 fx_rates [8204]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:06:36 fx_rates [8204]: [INFO] Generate file name
+Dec 16 12:06:53 fx_rates [8502]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:06:56 fx_rates [8502]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/b?format=json
+Dec 16 12:06:56 fx_rates [8502]: [INFO] Megre dataframes
+Dec 16 12:06:56 fx_rates [8502]: [INFO] Generate file name
+Dec 16 12:06:57 fx_rates [8502]: [INFO] Load_data from http://api.nbp.pl/api/exchangerates/tables/a?format=json
+Dec 16 12:06:57 fx_rates [8502]: [INFO] Generate file name
