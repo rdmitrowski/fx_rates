@@ -27,7 +27,7 @@ jobs:
         python3 setup.py bdist_wheel
     - name: Check distribution file
       run: |
-        check-wheel-contents ./dist/fx_rates
+        check-wheel-contents ./dist/fx_rates*
     - name: Download artifact from build job
       #uses: actions/download-artifact@v3
       uses: actions/upload-artifact@v3
