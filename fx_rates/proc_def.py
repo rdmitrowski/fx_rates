@@ -23,3 +23,7 @@ def generate_filename() -> str:
     logs.info(f"Generate file name")
     now = datetime.now()
     return f"fx_rates_{now.year}_{now.month}_{now.day}_{now.hour}_{now.minute}_{now.second}.csv"
+
+
+def write_output(df: DataFrame, output_file_name: str, separator: str = ";", saving_mode: str = "overwrite"):
+    df.write.options(delimiter=separator).mode(saving_mode).csv(output_file_name)
