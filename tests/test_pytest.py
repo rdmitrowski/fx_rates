@@ -1,6 +1,6 @@
 # python -m pytest --import-mode=append tests/
 import sys
-sys.path.insert(0, './process')
+sys.path.insert(0, './fx_rates')
 
 import spark_sess
 import proc_def
