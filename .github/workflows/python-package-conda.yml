@@ -1,0 +1,36 @@
+name: FX rates application build
+on: #[push]
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.7"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        pip install setuptools
+    - name: Test with pytest
+      run: |
+        pytest
+    - name: Create distribution file
+      run: |
+        python3 setup.py bdist_wheel
+    - name: Check distribution file
+      run: |
+        check-wheel-contents ./dist/fx_rates
+    - name: Download artifact from build job
+      #uses: actions/download-artifact@v3
+      uses: actions/upload-artifact@v3
+      with:
+        name: fx_rates
+        path: ./dist/fx_rates*
