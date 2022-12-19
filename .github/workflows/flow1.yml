@@ -5,10 +5,6 @@ on: #[push]
   pull_request:
     branches: [ "main" ]
 
-
-   build_wheels:
-
-
 jobs:
   build:
     name: Run pipeline on ${{ matrix.os }} python ver ${{ matrix.version }}
